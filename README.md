@@ -7,4 +7,4 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 
 ## Hardware Overview
 
-images1
+image1
