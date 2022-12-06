@@ -4,6 +4,11 @@ Round LCD HAT for Raspberry a luxurious visual experience while accessing the de
 
 This beautiful device can be used standalone or can be used in smartwatches or any application that uses a circular display. With a 4-wire serial SPI interface, a single-sided FPC (Flexible Printed Circuits), and an optional ZIF connection.
 
+## Features:
+
+* 1.28" LCD Display
+* 
+
 
 ## Hardware Overview
 
