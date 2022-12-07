@@ -24,7 +24,10 @@ image1
 ## Working Steps to Follow
 
 * Step.1 - To start working with Pi-1.28-TOUCH-LCD-HAT, you have to attach the HAT on your raspberryPi and turn it ON.
-* Step.2 - Once your Pi get satarted, open the cmd terminal and type command "git clone https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT.git" to download the code in your Pi
+* Step.2 - Once your Pi get satarted, open the cmd terminal and type command  to download the code in your Pi
+```
+"git clone https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT.git"
+```
 * Step.3 - After downloading you will get a Directory named with "Pi-TOUCH-LCD-HAT" in your system, opne this directory and open any of the example code in Thonny IDE provided in this dirctory to test your LCD-HAT.
 
 
