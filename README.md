@@ -7,7 +7,13 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 ## Features:
 
 * 1.28" LCD Display
-* 
+* Joystick control button
+* IPS Touch Display
+* 4-Wire Serial SPI Interfacing
+* GC9A01A Driver
+* 4K/65K/262K Colors
+* 400cd/m2 brightness
+
 
 
 ## Hardware Overview
