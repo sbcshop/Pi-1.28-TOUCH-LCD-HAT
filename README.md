@@ -17,9 +17,7 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 
 ## Hardware Overview
 
-image1
-
-
+<img src ="https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT/blob/main/Images/1.28%20Round%20Touch%20LCD%20HAT%20for%20Raspberry%20Pi.png" />
 
 ## Working Steps to Follow
 
