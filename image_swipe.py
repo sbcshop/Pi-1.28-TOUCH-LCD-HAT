@@ -4,7 +4,7 @@ import sys
 import time
 import spidev as SPI
 from lib import RoundLCD
-import touch_driver_1inch28 as Touch
+from lib import touch_driver_1inch28 as Touch
 from PIL import Image,ImageDraw,ImageFont
 
 
