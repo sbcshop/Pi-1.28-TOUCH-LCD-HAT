@@ -30,7 +30,7 @@ git clone https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT.git
 
 ## Documentation
 
-* [Pi-1.28-TOUCH-LCD-HAT Hardware](https://github.com/sbcshop/IoTFi_2G_Hardware)
+* [Pi-1.28-TOUCH-LCD-HAT Hardware](https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT-Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
