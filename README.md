@@ -30,13 +30,12 @@ git clone https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT.git
 
 ## Documentation
 
-* [IoTFi-2G Hardware](https://github.com/sbcshop/IoTFi_2G_Hardware)
-* [Raspberry Pi Pico Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+* [Pi-1.28-TOUCH-LCD-HAT Hardware](https://github.com/sbcshop/IoTFi_2G_Hardware)
+* [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
-* [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
-* [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-* [RP2040 Hardware Design](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-* [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 ## Related Products
 
