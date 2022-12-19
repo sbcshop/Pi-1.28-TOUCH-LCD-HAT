@@ -26,6 +26,6 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 ```
 git clone https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT.git
 ```
-* Step.3 - After downloading you will get a Directory named with "Pi-TOUCH-LCD-HAT" in your system, opne this directory and open any of the example code in Thonny IDE provided in this dirctory to test your LCD-HAT.
+* Step.3 - After downloading you will get a Directory named with "Pi-TOUCH-LCD-HAT" in your system, open this directory and you will see some exmples created by us for your help. You can simply open any of the example codes in Thonny IDE provided in this dirctory to test your LCD-HAT.
 
 
