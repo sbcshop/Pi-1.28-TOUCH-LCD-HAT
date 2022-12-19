@@ -28,4 +28,31 @@ git clone https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT.git
 ```
 * Step.3 - After downloading you will get a Directory named with "Pi-TOUCH-LCD-HAT" in your system, open this directory and you will see some exmples created by us for your help. You can simply open any of the example codes in Thonny IDE provided in this dirctory to test your LCD-HAT.
 
+## Documentation
+
+* [IoTFi-2G Hardware](https://github.com/sbcshop/IoTFi_2G_Hardware)
+* [Raspberry Pi Pico Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
+* [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [RP2040 Hardware Design](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+
+## Related Products
+
+* [Round LCD HAT](https://shop.sb-components.co.uk/products/round-lcd-hat-for-raspberry-pi?_pos=3&_sid=b3a6e03ae&_ss=r)
+
+ ![Round LCD HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/RaspberryPiRoundLCD.png?v=1619171155&width=400)
+
+
+## Product License
+
+This is ***open source*** product. Kindly check LICENSE.md file for more informnation.
+
+Please contact [support@sb-components.co.uk](support@sb-components.co.uk) for technical support.
+<p align="center">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=350">
+</p>
+
+
 
