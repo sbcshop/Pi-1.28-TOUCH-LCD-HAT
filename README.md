@@ -1,27 +1,36 @@
 # Pi-1.28-TOUCH-LCD-HAT
 
-<img src ="https://cdn.shopify.com/s/files/1/1217/2104/files/1.28.jpg?v=1670306776" />
+<img src ="https://github.com/sbcshop/Pi-1.28-Touch-Lcd-HAT-Software/blob/main/Image/1.28%20banner.jpg" />
 
 Round LCD HAT for Raspberry a luxurious visual experience while accessing the device. This LCD HAT has three components – a Full Touch LCD Display, Touch Panel, and a Joystick to move around with various actions. The Full Touch HD display gives a resolution of 240 x 240 pixels resolution. This 1.28’’ color IPS TFT display panel has a GC9A01A controller, and panorama view angle. It has an optional Capacitive Touch Panel with the excellent display quality.
 
 This beautiful device can be used standalone or can be used in smartwatches or any application that uses a circular display. With a 4-wire serial SPI interface, a single-sided FPC (Flexible Printed Circuits), and an optional ZIF connection.
 
-## Features:
-
-* 1.28" LCD Display
-* Joystick control button
-* IPS Touch Display
-* 4-Wire Serial SPI Interfacing
-* GC9A01A Driver
-* 4K/65K/262K Colors
-* 400cd/m2 brightness
-
+### Features:
+- Capacitive touchscreen technology for accurate and responsive touch input
+- 1.28" IPS TFT high-quality visuals display for interaction.
+- 5-way joystick support for versatile control options
+- Compatible with Raspberry Pi 4, 3, and other 40 Pin GPIO compatible single-board computers
+- 4-wire serial SPI interface for display and I2C interface for touch control.
+- 400cd/m2 brightness
+  
+### Specifications:
+- Operating voltage 3.3V 
+- 1.28” Display with resolution 240 x 240
+- CST816S Capacitive touch controller 
+- GC9A01A Display Driver
+- Appearance: RGB
+- Colors: 65K
+- Operating Temperature is -20℃~70℃
+- Storage Temperature is -30℃~80℃
 
 
 ## Hardware Overview
+<img src ="https://github.com/sbcshop/Pi-1.28-Touch-Lcd-HAT-Software/blob/main/Image/1.28%20pinout.png" />
 
-<img src ="https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT/blob/main/Images/1.28%20Round%20Touch%20LCD%20HAT%20for%20Raspberry%20Pi.png" />
-
+- (1) 1.28” Capacitive Touch Display 
+- (2) 5-Way Joystick
+  
 ## Working Steps to Follow
 
 * Step.1 - To start working with Pi-1.28-TOUCH-LCD-HAT, you have to attach the HAT on your raspberryPi and turn it ON.
@@ -29,7 +38,7 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 ```
 git clone https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT.git
 ```
-* Step.3 - After downloading you will get a Directory named with "Pi-TOUCH-LCD-HAT" in your system, open this directory and you will see some exmples under the "Examples" directory created by us for your help. You can simply open any of the example codes in Thonny IDE provided in this dirctory to test your LCD-HAT.
+* Step.3 - After downloading you will get a Directory named with "Pi-TOUCH-LCD-HAT" in your system, open this directory and you will see some exmples under the "Examples" directory created by us for your help. You can simply open any of the example codes in Thonny IDE provided in this directory to test your LCD-HAT.
 
 ## Documentation
 
